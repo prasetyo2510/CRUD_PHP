@@ -7,5 +7,5 @@ link bit.ly biar mudah diingat.
 
 Ini adalah contoh Pembuatan sebuah aplikasi CRUD PHP DENGAN MYSQL SEDERHANA.
 
-CRUD menggunakan PHP Native dengan code sederhana.
+CRUD menggunakan PHP Native.
 
